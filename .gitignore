@@ -1,3 +1,6 @@
+# Data file
+/data/data.txt
+
 # Logs
 logs
 *.log
